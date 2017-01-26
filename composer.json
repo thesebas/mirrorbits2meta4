@@ -1,0 +1,14 @@
+{
+    "name": "thesebas/mirrorbits2metalink",
+    "description": "Convert mirrorbits to metalink xml",
+    "type": "project",
+    "authors": [
+        {
+            "name": "thesebas",
+            "email": "thesebas@thesebas.net"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
